@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+.img-yoga{
+    display: block;
+    margin: 190px auto 122px auto;
+}
+input{
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border-radius: 10px;
+    border: none;
+    margin: 0 auto;
+    display: block;
+    padding-left: 11px;
+    outline: none;
+}
+input::placeholder{
+    padding-left: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #969696;
+}
+.input-password{
+    margin-top: 21px;
+}
+.forgot-password{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+
+    color: #000000;
+    margin: 35px 30px 38px 0;
+    display: block;
+    text-align: right;
+    text-decoration: none;
+}
+button{
+    width: 133px;
+    height: 46px;
+    display: block;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+    border-radius: 10px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    margin: 38px auto 21px auto;
+}
+.link-signup{
+    display: block;
+    margin-top: 21px;
+    text-align: center;
+    text-decoration: none;
+    color: #969696;
+}
+strong{
+    color: #323232;
+}
+.paragraph{
+    padding: 0;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 18px;
+    font-weight: 900;
+}
+.box-imgs{
+    text-align: center;
+    margin: 18px auto 80px auto;
+}
+.img-link{
+    margin: 0 18px;
+}
